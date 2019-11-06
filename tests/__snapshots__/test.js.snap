@@ -1,0 +1,1017 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 
+Execute time: 
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 
+Execute time: +1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 
+Execute time: [object Object]
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 
+Execute time: -1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 
+Execute time: -1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 
+Execute time: 1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 
+Execute time: 1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 
+Execute time: Example test
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 
+Execute time: false
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 
+Execute time: function () {}
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 
+Execute time: null
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 
+Execute time: true
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 
+Execute time: undefined
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: +1000
+Execute time: 
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: +1000
+Execute time: +1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: +1000
+Execute time: [object Object]
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: +1000
+Execute time: -1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: +1000
+Execute time: -1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: +1000
+Execute time: 1000
+ 1`] = `undefined`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: +1000
+Execute time: 1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: +1000
+Execute time: Example test
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: +1000
+Execute time: false
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: +1000
+Execute time: function () {}
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: +1000
+Execute time: null
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: +1000
+Execute time: true
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: +1000
+Execute time: undefined
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: [object Object]
+Execute time: 
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: [object Object]
+Execute time: +1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: [object Object]
+Execute time: [object Object]
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: [object Object]
+Execute time: -1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: [object Object]
+Execute time: -1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: [object Object]
+Execute time: 1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: [object Object]
+Execute time: 1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: [object Object]
+Execute time: Example test
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: [object Object]
+Execute time: false
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: [object Object]
+Execute time: function () {}
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: [object Object]
+Execute time: null
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: [object Object]
+Execute time: true
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: [object Object]
+Execute time: undefined
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: 
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: 
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: +1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: +1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: [object Object]
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: [object Object]
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: -1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: -1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: -1000
+ 3`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: -1000
+ 4`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: 1000
+ 1`] = `undefined`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: 1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: 1000
+ 3`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: 1000
+ 4`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: Example test
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: Example test
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: false
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: false
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: function () {}
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: function () {}
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: null
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: null
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: true
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: true
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: undefined
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: -1000
+Execute time: undefined
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: 
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: 
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: +1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: +1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: [object Object]
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: [object Object]
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: -1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: -1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: -1000
+ 3`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: -1000
+ 4`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: 1000
+ 1`] = `undefined`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: 1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: 1000
+ 3`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: 1000
+ 4`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: Example test
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: Example test
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: false
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: false
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: function () {}
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: function () {}
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: null
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: null
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: true
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: true
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: undefined
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: 1000
+Execute time: undefined
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: Example test
+Execute time: 
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: Example test
+Execute time: +1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: Example test
+Execute time: [object Object]
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: Example test
+Execute time: -1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: Example test
+Execute time: -1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: Example test
+Execute time: 1000
+ 1`] = `undefined`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: Example test
+Execute time: 1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: Example test
+Execute time: Example test
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: Example test
+Execute time: false
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: Example test
+Execute time: function () {}
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: Example test
+Execute time: null
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: Example test
+Execute time: true
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: Example test
+Execute time: undefined
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: false
+Execute time: 
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: false
+Execute time: +1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: false
+Execute time: [object Object]
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: false
+Execute time: -1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: false
+Execute time: -1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: false
+Execute time: 1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: false
+Execute time: 1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: false
+Execute time: Example test
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: false
+Execute time: false
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: false
+Execute time: function () {}
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: false
+Execute time: null
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: false
+Execute time: true
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: false
+Execute time: undefined
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: function () {}
+Execute time: 
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: function () {}
+Execute time: +1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: function () {}
+Execute time: [object Object]
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: function () {}
+Execute time: -1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: function () {}
+Execute time: -1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: function () {}
+Execute time: 1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: function () {}
+Execute time: 1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: function () {}
+Execute time: Example test
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: function () {}
+Execute time: false
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: function () {}
+Execute time: function () {}
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: function () {}
+Execute time: null
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: function () {}
+Execute time: true
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: function () {}
+Execute time: undefined
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: null
+Execute time: 
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: null
+Execute time: +1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: null
+Execute time: [object Object]
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: null
+Execute time: -1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: null
+Execute time: -1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: null
+Execute time: 1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: null
+Execute time: 1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: null
+Execute time: Example test
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: null
+Execute time: false
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: null
+Execute time: function () {}
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: null
+Execute time: null
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: null
+Execute time: true
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: null
+Execute time: undefined
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: true
+Execute time: 
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: true
+Execute time: +1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: true
+Execute time: [object Object]
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: true
+Execute time: -1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: true
+Execute time: -1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: true
+Execute time: 1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: true
+Execute time: 1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: true
+Execute time: Example test
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: true
+Execute time: false
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: true
+Execute time: function () {}
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: true
+Execute time: null
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: true
+Execute time: true
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: true
+Execute time: undefined
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: undefined
+Execute time: 
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: undefined
+Execute time: +1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: undefined
+Execute time: [object Object]
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: undefined
+Execute time: -1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: undefined
+Execute time: -1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: undefined
+Execute time: 1000
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: undefined
+Execute time: 1000
+ 2`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: undefined
+Execute time: Example test
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: undefined
+Execute time: false
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: undefined
+Execute time: function () {}
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: undefined
+Execute time: null
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: undefined
+Execute time: true
+ 1`] = `false`;
+
+exports[`Testing gohome package 
+Testing notify function with correct inputs
+Message: undefined
+Execute time: undefined
+ 1`] = `false`;
+
+exports[`Testing gohome package Testing SetimeOut() 1`] = `294`;

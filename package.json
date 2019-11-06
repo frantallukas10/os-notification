@@ -1,0 +1,33 @@
+{
+  "name": "os-notification",
+  "version": "1.0.1",
+  "description": "Easily notify your message on your defined time. It can support apple, windows and linux operation systems",
+  "main": "./src/main.js",
+  "scripts": {
+    "notify": "node ./cli.js",
+    "test": "jest --coverage --silent",
+    "test:watch": "jest --watch --silent"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frantallukas10/os-notification.git"
+  },
+  "keywords": [
+    "notification",
+    "os",
+    "terminal notification",
+    "node notification"
+  ],
+  "author": "Ing. Lukáš Frantál <frantal.lukas10@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frantallukas10/os-notification/issues"
+  },
+  "homepage": "https://frantallukas10.github.io/os-notification",
+  "bin": {
+    "notify": "./cli.js"
+  },
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
