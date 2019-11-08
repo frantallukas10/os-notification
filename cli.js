@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { notify } = require('./src/main.js');
 
 const yellowColor = '\x1b[33m%s\x1b[0m';
