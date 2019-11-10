@@ -1,6 +1,6 @@
 {
   "name": "os-notification",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Easily notify your message on your defined time. It can support apple, windows and linux operation systems",
   "main": "./src/main.js",
   "scripts": {
