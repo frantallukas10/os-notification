@@ -1,5 +1,5 @@
 # os-notification
-Easily create notify message in your defined time. It supports apple, windows and linux operation systems.
+Easily create notify message in your defined time. It supports apple, windows and linux operation systems. It has support for MacOS, Windows and Linux.
 
 ![NPM](https://img.shields.io/npm/l/os-notification)
 ![npm](https://img.shields.io/npm/v/os-notification)
