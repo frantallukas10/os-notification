@@ -16,7 +16,7 @@ const getValue = type => {
 };
 
 const message = getValue('message');
-const executeTime = getValue('time');
+const executeTime = getValue('time') || '0';
 
 if (notify(message, executeTime) === false) {
   console.log(
