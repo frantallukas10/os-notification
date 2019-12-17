@@ -21,7 +21,7 @@ const executeTime = getValue('time') || '0';
 if (notify(message, executeTime) === false) {
   console.log(
     redColor,
-    '\nplease define correct your message and execution time!'
+    '\nPlease define correct your message and execution time!'
   );
   console.log(
     yellowColor,

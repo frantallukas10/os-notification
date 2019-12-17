@@ -1,0 +1,8 @@
+.vscode
+coverage
+images
+node_modules
+tests
+.gitignore
+_config.yml
+package-lock.json
